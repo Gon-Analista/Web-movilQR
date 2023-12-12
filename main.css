@@ -10,6 +10,7 @@ body {
 .img1 {
     width: 25%;
     height: auto;
+    mix-blend-mode: normal;
     animation: logoAnimation 1.1s both;
 }
 
