@@ -8,7 +8,7 @@ body {
 }
 
 .img1 {
-    width: 25%;
+    width: 90%;
     height: auto;
     mix-blend-mode: normal;
     animation: logoAnimation 1.1s both;
@@ -73,12 +73,6 @@ body {
     transform: scale(1.04);
 }
 
-.text{
-    text-transform: capitalize;
-    text-align: left;
-    text-decoration: underline;
-}
-
 
 h1{
     font-family: 'bangers', cursive;
@@ -89,23 +83,11 @@ h3{
     font-family: 'bangers', cursive;
     font-size: 22px;
 }
-.bi-arrow-down-circle {
-    width: 80px;
-    height: 80px;
-}  
+
 
 img {
     background-color: transparent;
     mix-blend-mode: color-burn;
-}
-
-button{
-    background-color: transparent;
-    font-size: 4vw; 
-    padding: 4vw 6vw; 
-    margin-bottom: 5vw; 
-    border-radius: 7px;
-    filter: contrast(150%);
 }
 
 
